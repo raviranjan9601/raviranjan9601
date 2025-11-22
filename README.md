@@ -1,10 +1,5 @@
 <!--<h1 align="center">Hi 👋, I'm Ravi Ranjan</h1>
 <!--<h3 align="center">Student | Learning to code and build amazing things 🚀</h3>-->
-<p align="center">
-  <a href="https://youtu.be/pS3n9BSc_CM">
-    <img src="https://img.youtube.com/vi/pS3n9BSc_CM/maxresdefault.jpg" width="600">
-  </a>
-</p>
 
 <!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Student+Developer;Learning+Web+Development;Coding+with+curiosity+%F0%9F%9A%80;Always+learning+new+things!" />

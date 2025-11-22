@@ -3,12 +3,12 @@
 
 
 
-👨‍🎓 About Me
- 🎒 Currently a **BCA AI/ML** exploring the world of coding  
- 🌱 Learning **HTML, CSS, C, Python**  
- 💡 I love creating small projects and improving step-by-step  
- 🤝 Open to collaborate and learn with other developers  
- 📫 Reach me at **raviranjan9601@gmail.com**
+👨‍🎓 About Me<br>
+ 🎒 Currently a **BCA AI/ML** exploring the world of coding<BR>
+ 🌱 Learning **HTML, CSS, C, Python**  <BR>
+ 💡 I love creating small projects and improving step-by-step  <BR>
+ 🤝 Open to collaborate and learn with other developers <BR> 
+ 📫 Reach me at **raviranjan9601@gmail.com**<BR>
 
 
 
@@ -26,12 +26,12 @@
 
 
 
-🌱 My Goals
+🌱 My Goals<BR>
 Learn JavaScript deeply  
 Create useful projects  
 Start contributing to open-source  
 
 
 
-📫 Connect With Me
+📫 Connect With Me<BR>
 📧 Email: raviranjan9601@gmail.com

@@ -2,13 +2,12 @@
 <h3 align="center">Student | Learning to code and build amazing things 🚀</h3>
 
 
-
 👨‍🎓 About Me<br>
- 🎒 Currently a **BCA AI/ML** exploring the world of coding<BR>
- 🌱 Learning **HTML, CSS, C, Python**  <BR>
- 💡 I love creating small projects and improving step-by-step  <BR>
- 🤝 Open to collaborate and learn with other developers <BR> 
- 📫 Reach me at **raviranjan9601@gmail.com**<BR>
+🎒 Currently a **BCA AI/ML** exploring the world of coding<BR>
+🌱 Learning **HTML, CSS, C, Python**  <BR>
+💡 I love creating small projects and improving step-by-step  <BR>
+🤝 Open to collaborate and learn with other developers <BR> 
+📫 Reach me at **raviranjan9601@gmail.com**<BR>
 
 
 
@@ -27,9 +26,9 @@
 
 
 🌱 My Goals<BR>
-Learn JavaScript deeply  
-Create useful projects  
-Start contributing to open-source  
+   Learn JavaScript deeply  
+   Create useful projects  
+   Start contributing to open-source  
 
 
 

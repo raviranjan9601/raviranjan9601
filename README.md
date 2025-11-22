@@ -1,5 +1,10 @@
 <!--<h1 align="center">Hi 👋, I'm Ravi Ranjan</h1>
 <!--<h3 align="center">Student | Learning to code and build amazing things 🚀</h3>-->
+<p align="center">
+  <a href="https://youtu.be/pS3n9BSc_CM">
+    <img src="https://img.youtube.com/vi/pS3n9BSc_CM/maxresdefault.jpg" width="600">
+  </a>
+</p>
 
 <!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Student+Developer;Learning+Web+Development;Coding+with+curiosity+%F0%9F%9A%80;Always+learning+new+things!" />
@@ -22,7 +27,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=900&color=00F7FF&width=500&center=true&vCenter=true&lines=Hi+I'm+Ravi+%F0%9F%91%8B;Student+Developer+%F0%9F%93%9A;Learning+Web+Dev+%26+Python+%F0%9F%94%A5;Always+Curious+%F0%9F%8C%9A" />
 </p>
 
-
+<!-- ===========================
+     👨‍💻 ABOUT ME
+     =========================== -->
 👨‍🎓 About Me<br>
 🎒 Pursuing **BCA (AI/ML)** and exploring the world of coding<BR>
 🌱 Learning **HTML, CSS, C, Python**  <BR>

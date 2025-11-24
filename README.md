@@ -19,7 +19,7 @@
 <h2 align="center"> Student Developer | Building Skills Every Day </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=900&color=00F7FF&width=500&center=true&vCenter=true&lines=Hi+I'm+Ravi+%F0%9F%91%8B;Student+Developer+%F0%9F%93%9A;Learning+Web+Dev+%26+Python+%F0%9F%94%A5;Always+Curious+%F0%9F%8C%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=900&color=00F7FF&width=500&center=true&vCenter=true&lines=Hi+I'm+Ravi+Ranjan+%F0%9F%91%8B;Student+Developer+%F0%9F%93%9A;Learning+Web+Dev+%26+Python+%F0%9F%94%A5;Always+Curious+%F0%9F%8C%9A" />
 </p>
 
 <!-- ===========================

@@ -43,17 +43,7 @@
 </p>
 <!--Social Media-->
 
-<h3 align="center">🌐 Connect With Me</h3>
 
-<p align="center">
-  <a href="https://www.facebook.com/share/1CR63TquVT/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  
-  <a href="https://www.instagram.com/raviranjan.9601?igsh=YXV3dHJ4cGs1ajYy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
 
 
 
@@ -107,7 +97,17 @@
 
 
 
-📫 Connect With Me<BR>
+<h3 align="center">🌐 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://www.facebook.com/share/1CR63TquVT/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/raviranjan.9601?igsh=YXV3dHJ4cGs1ajYy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 <p align="left">
 📧 Email: raviranjan9601@gmail.com
 

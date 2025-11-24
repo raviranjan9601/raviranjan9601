@@ -41,6 +41,18 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,c,python,git,github,vscode" />
 </p>
+<!--Social Media-->
+
+<p align="center">
+  <a href="https://www.facebook.com/share/1CR63TquVT/" target="_blank">
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/raviranjan.9601?igsh=YXV3dHJ4cGs1ajYy" target="_blank">
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"/>
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raviranjan9601&theme=react-dark&area=true&hide_border=true" />

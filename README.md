@@ -43,15 +43,19 @@
 </p>
 <!--Social Media-->
 
+<h3 align="center">🌐 Connect With Me</h3>
+
 <p align="center">
   <a href="https://www.facebook.com/share/1CR63TquVT/" target="_blank">
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/raviranjan.9601?igsh=YXV3dHJ4cGs1ajYy" target="_blank">
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+
 
 
 <p align="center">

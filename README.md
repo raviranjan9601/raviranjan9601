@@ -78,11 +78,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0066ff&height=120&section=footer" />
 </p>
 
-<!-- 3D CONTRIBUTION SNAKE (DARK MODE) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raviranjan9601/raviranjan9601/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raviranjan9601/raviranjan9601/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/raviranjan9601/raviranjan9601/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>

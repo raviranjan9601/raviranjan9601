@@ -81,11 +81,28 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.facebook.com/share/1CR63TquVT/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/raviranjan9601" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35"/>
   </a>
-  <a href="https://www.instagram.com/raviranjan.9601?igsh=YXV3dHJ4cGs1ajYy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  &nbsp;
+  <a href="mailto:raviranjan9601@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="35"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/918210509601" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" width="35"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/raviranjan.9601" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" width="35"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/raviranjan.9601" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="35"/>
+  </a>
+  &nbsp;
+  <a href="https://codepen.io/raviranjan9601" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/codepen.png" alt="CodePen" width="35"/>
   </a>
 </p>
 

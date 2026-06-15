@@ -1,144 +1,163 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ravi%20Ranjan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+# 👋 Hi, I'm Ravi Ranjan
 
-# 👨‍💻 Ravi Ranjan
-### 🚀 BCA (AI & ML) • Full Stack Developer • Future AI Engineer
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Ravi+Ranjan+👋;BCA+(AI+%26+ML)+Student;Full+Stack+Developer;Future+AI+Engineer;Building+Intelligence+with+Code+⚡"/>
-
-</p>
+### BCA (AI & ML) Student | Data Structures | AI Enthusiast
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=raviranjan9601&label=Profile%20Views&color=00F7FF&style=flat"/>
-<img src="https://img.shields.io/github/followers/raviranjan9601?style=social"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BCA+(AI+%26+ML)+Student;Learning+Data+Structures+%26+Algorithms;Exploring+Artificial+Intelligence;Building+Projects+with+C,+Python+and+Web+Tech;Future+AI+Engineer"/>
 </p>
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
-💡 Passionate developer exploring **Artificial Intelligence and Software Engineering**.
+I am a BCA (AI & ML) student passionate about solving problems through code and understanding how intelligent systems work.
 
-I am currently pursuing **BCA with specialization in AI & ML**, focusing on building **scalable full-stack applications** while learning the core concepts of **machine learning, neural networks, and intelligent systems**.
+Currently focusing on:
 
-🚀 My mission is to build **smart systems that solve real-world problems**.
-
-### 🎯 Current Focus
-
-- 🌱 Learning **Neural Networks & Deep Learning**
-- ⚡ Building **Full Stack Web Apps**
-- 🤖 Exploring **AI Engineering**
-- 🧠 Studying **Data Structures & Algorithms**
+* 📚 Data Structures & Algorithms
+* 💻 C Programming
+* 🖥 Operating Systems
+* 🤖 Artificial Intelligence
+* 📊 Data Science Fundamentals
+* 🔐 Cyber Security Basics
 
 ---
 
-# ⚡ Tech Stack
+## 🎯 Semester Learning Roadmap
 
-### 🎨 Frontend
+### Current Semester
+
+✅ Data Structures using C
+
+✅ Operating Systems
+
+✅ Mathematical Foundations
+
+✅ Emerging Technologies
+
+✅ Data Analytics using Excel
+
+### Next Goals
+
+* Python for AI
+* Machine Learning
+* Database Management Systems
+* Web Development
+* Deep Learning
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js"/>
-
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js"/>
 </p>
 
-### ⚙️ Backend
+### Computer Science
+
+* Data Structures
+* Algorithms
+* Operating Systems
+* Problem Solving
+* Mathematics for Computing
+
+### Learning AI & Data Science
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,django,express"/>
-
-</p>
-
-### 🤖 AI / ML
-
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
 </p>
 
-### 🧰 Tools
+---
+
+## 📚 What I'm Studying Right Now
+
+### Data Structures
+
+* Arrays
+* Linked Lists
+* Stacks
+* Queues
+* Trees
+* Graphs
+* Hashing
+
+### Operating Systems
+
+* Process Scheduling
+* Synchronization
+* Memory Management
+* Deadlocks
+
+### AI & Emerging Technologies
+
+* Artificial Intelligence
+* Machine Learning
+* Data Science
+* Cyber Security
+
+---
+
+## 🚀 Featured Projects
+
+### Data Structures in C
+
+Implementation of:
+
+* Linked List
+* Stack
+* Queue
+* BST
+* Sorting Algorithms
+
+### Mini AI Projects
+
+* Linear Regression
+* Classification Models
+* Data Visualization
+
+### Web Development
+
+* Portfolio Website
+* Student Management System
+* CRUD Applications
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,docker,mongodb,vscode,github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raviranjan9601&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviranjan9601&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🔥 Current Goals for 2026
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raviranjan9601&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviranjan9601&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raviranjan9601&theme=tokyonight&hide_border=true"/>
-
-</p>
+* Complete Data Structures in C
+* Solve 300+ DSA Problems
+* Build 10 Projects
+* Learn Machine Learning
+* Contribute to Open Source
+* Get Internship Experience
 
 ---
 
-# 📈 Contribution Graph
+## 🌐 Connect With Me
 
-<p align="center">
+LinkedIn: [LINKEDIN](https://www.linkedin.com/in/raviranjan9601/)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raviranjan9601&theme=tokyo-night&hide_border=true&line=00F7FF&point=00F7FF"/>
+Email: raviranjan9601@gmail.com
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/raviranjan9601/raviranjan9601/output/github-contribution-grid-snake.svg"/>
-
-</p>
+GitHub: [github](https://www.github.com/raviranjan9601/)
 
 ---
 
-# 🌐 Connect With Me
+### 💡 Motto
 
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
-</a>
-
-</p>
-
----
-
-# 💡 Developer Quote
-
-<p align="center">
-
-🧠 *"First solve the problem, then write the code."* – John Johnson
-
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+"Consistency beats intensity. Learn, Build, Improve, Repeat."
